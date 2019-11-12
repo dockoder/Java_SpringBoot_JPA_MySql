@@ -1,4 +1,4 @@
-package com.dockoder.demo;
+package com.dockoder.demo.controller;
 
 import com.dockoder.demo.domain.User;
 import com.dockoder.demo.domain.UserRepository;
